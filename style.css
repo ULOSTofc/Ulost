@@ -1,0 +1,59 @@
+
+  /*contact start*/
+
+  .contact .box-container{
+
+    text-align: center;
+    background: #fff;
+    border-radius: 3rem;
+    padding: 0.5rem;
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
+.contact .box-container .box{
+
+    display: inline-block;
+    width: 300px;
+    height: 150px;
+    margin-right: 10px;
+}
+
+
+.contact .box1{
+    text-align: center;
+    
+}
+
+/*nome dos contatos*/
+.contact .box-container .box h3 {
+
+    color: var(--black);
+    font-size: 2.5rem;
+}
+/*end nomes*/
+
+/*número do zap*/
+.contact .box-container .box span {
+
+    color: var(--green);
+    font-size: 1.5rem;
+}
+/*final número do zap*/
+
+/*icone do zap*/
+.contact .box-container .box .share{
+   height: .5rem;
+   border-radius: 1.5rem;
+
+margin-bottom: 1rem;
+    
+}
+
+.contact .box-container .box .share a{
+   
+
+}
+
+/*final icone do zap*/
+
+  /*contact end*/
